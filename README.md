@@ -15,7 +15,16 @@
 - Dropped Unused Columns → Removed unnecessary columns (*PropertyAddress, OwnerAddress, TaxDistrict*) to streamline the dataset.
 ## 🛠️ Technology Used
 - SQL (MySQL) → Performed cleaning operations using functions like *ALTER TABLE, UPDATE, ROW_NUMBER(), SUBSTRING_INDEX(), and DELETE*.
-## 📎 Acknowledgments
+## 📌 Getting Started 
+## 🔧 **Requirements**
+- MySQL database system 🐬
+- MySQL IDE (e.g., MySQL Workbench, DBeaver) 
+- `housing` table containing Nashville housing data 
+## ▶️ **How to Run** 
+- Open your MySQL IDE and connect to your database 
+- Ensure the housing table is available 
+- Run the SQL queries in sequence to clean and standardize the data
+## 📎 Acknowledgements
 - This project was inspired by [@Alex The Analyst.](https://youtu.be/8rO7ztF4NtU?si=2nsCc0zcK1O1iiPe)
 - Dataset [here.](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
 ## ✍️ Author
